@@ -4,7 +4,7 @@
 **Minimum Gereksinimler**
 
 - **CPU: 10 core**
-- **32GB RAM**
+- **RAM: 32GB**
 - **Disk: 1 TB**
 
 ```
