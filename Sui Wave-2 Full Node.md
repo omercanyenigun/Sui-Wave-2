@@ -83,6 +83,7 @@ docker ps -a
 ![alt text](https://i.hizliresim.com/5fiq98c.png)
 
 
+
 #size container Id'nizi verecek.
 
 ```
