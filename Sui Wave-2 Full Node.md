@@ -124,7 +124,7 @@ docker-compose up -d
 ```
 
 
-**Container Id ile logsları kontrol etme**
+**Container Id ile logları kontrol etme**
 
 ```
 docker ps -a
@@ -136,4 +136,32 @@ docker ps -a
 docker logs -f <container id>
 ```
 
+- **Node'unuz Block Kaçırmaya ve Geride Kalmaya Başlarsa Bu Kodları Girin**
+
+
+```
+cd $HOME/sui
+```
+```
+sudo docker compose down
+```
+```
+IMAGE="mysten/sui-node:6cf8c88c1c0c3b6e364efca842778295c0555841"
+sed -i.bak "s|image:.*|image: $IMAGE|" $HOME/sui/docker-compose.yaml
+```
+```
+docker-compose up -d
+```
+
+**Container Id ile logları kontrol etme**
+
+```
+docker ps -a
+```
+
+#size container Id'nizi verecek.
+
+```
+docker logs -f <container id>
+```
 
