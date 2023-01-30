@@ -1,4 +1,5 @@
-![alt text](https://i.hizliresim.com/3als2c4.png)
+![alt text](https://i.hizliresim.com/48dj5c8.png)
+
 
 **Minimum Gereksinimler**
 
