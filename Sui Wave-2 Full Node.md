@@ -72,6 +72,7 @@ sed -i.bak "s|image:.*|image: $IMAGE|" $HOME/sui/docker-compose.yaml
 docker-compose up -d
 ```
 
+![alt text](https://i.hizliresim.com/bft8lmw.png)
 
 **Container Id ile logsları kontrol etme**
 
@@ -79,11 +80,16 @@ docker-compose up -d
 docker ps -a
 ```
 
+![alt text](https://i.hizliresim.com/5fiq98c.png)
+
+
 #size container Id'nizi verecek.
 
 ```
 docker logs -f <container id>
 ```
+
+![alt text](https://i.hizliresim.com/9t4iyy9.png)
 
 
 **1.3M blockta ve bazen 3.3M blockta takılma oluyor. Node'unuzun durumunu https://scale3labs.com/check/sui adresinden kontrol edin.
