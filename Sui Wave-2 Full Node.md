@@ -92,6 +92,13 @@ docker logs -f <container id>
 ![alt text](https://i.hizliresim.com/9t4iyy9.png)
 
 
+**Node'unuz durumunu - **https://twitter.com/testnetrun** sitesinden kontrol edebilirsiniz.**
+**Network yerini Testnet seçmeyi unutmayın.**
+
+
+![alt text](https://i.hizliresim.com/a952vot.png)
+
+
 **1.3M blockta ve bazen 3.3M blockta takılma oluyor. Node'unuzun durumunu https://scale3labs.com/check/sui adresinden kontrol edin.
 Eğer takılma olursa aşağıdaki kodları girin**
 
