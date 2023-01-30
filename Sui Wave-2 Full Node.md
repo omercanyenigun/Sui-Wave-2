@@ -92,7 +92,7 @@ docker logs -f <container id>
 ![alt text](https://i.hizliresim.com/9t4iyy9.png)
 
 
-**Node'unuz durumunu - **https://twitter.com/testnetrun** sitesinden kontrol edebilirsiniz.**
+**Node'unuz durumunu - **https://www.scale3labs.com/check/sui** sitesinden kontrol edebilirsiniz.**
 **Network yerini Testnet seçmeyi unutmayın.**
 
 
