@@ -143,7 +143,7 @@ docker logs -f <container id>
 cd $HOME/sui
 ```
 ```
-sudo docker compose down
+sudo docker-compose down
 ```
 ```
 IMAGE="mysten/sui-node:6cf8c88c1c0c3b6e364efca842778295c0555841"
