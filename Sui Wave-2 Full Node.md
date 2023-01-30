@@ -80,8 +80,7 @@ docker-compose up -d
 docker ps -a
 ```
 
-![alt text](https://i.hizliresim.com/5fiq98c.png)
-
+![alt text](https://i.hizliresim.com/a0r9hfx.png)
 
 
 #size container Id'nizi verecek.
